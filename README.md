@@ -18,14 +18,9 @@ Displays CPU Temperature, CPU Usage, Free RAM, and System Uptime through a simpl
 
 <table>
 <tr>
-<td align="center" width="70%">
+<td align="center" width="100%">
 <b>Desktop View</b><br><br>
 <img src="dashboard.png" width="100%">
-</td>
-
-<td align="center" width="30%">
-<b>Mobile View</b><br><br>
-<img src="mobile.png" width="100%">
 </td>
 </tr>
 </table>
