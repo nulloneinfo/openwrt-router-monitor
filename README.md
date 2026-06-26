@@ -30,7 +30,6 @@ Displays CPU Temperature, CPU Usage, Free RAM, and System Uptime through a simpl
 ```sh
 wget -qO- https://raw.githubusercontent.com/nulloneinfo/openwrt-router-monitor/main/install.sh | sh
 
-sh install.sh
 ```
 
 Open:
