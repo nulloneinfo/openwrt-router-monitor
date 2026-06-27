@@ -27,6 +27,12 @@ Displays CPU Temperature, CPU Usage, Free RAM, and System Uptime through a simpl
 
 ## Installation
 
+SSH Login:
+
+```text
+Example: ssh root@router-ip | ssh root@192.168.1.1
+```
+
 ```sh
 wget -qO- https://raw.githubusercontent.com/nulloneinfo/openwrt-router-monitor/main/install.sh | sh
 
